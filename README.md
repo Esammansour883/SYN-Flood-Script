@@ -24,4 +24,34 @@ The author takes no responsibility for any damage or misuse caused by this tool.
 ## 🚀 Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SYN-Flood-Script.git
+   git clone https://github.com/Esammansour883/SYN-Flood-Script.git
+
+
+Navigate to the script directory:
+
+bash
+Copy code
+cd SYN-Flood-Script
+Run the script:
+
+bash
+Copy code
+python dos.py
+Enter the target hostname (e.g., rateglo.com) and port (e.g., 443 for HTTPS).
+
+⚠️ Important Notes
+Target port: If you're targeting a website, use:
+80 for HTTP.
+443 for HTTPS.
+Ethical use only: Test only on networks or devices you own or have explicit permission to test. Unauthorized use is prohibited by law.
+📚 References
+Learn more about SYN flood attacks: SYN Flood Explanation
+Tools to detect network attacks: Wireshark
+🤝 Contributions
+Feel free to contribute by submitting a pull request or reporting issues.
+
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+go
+Copy code
