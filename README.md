@@ -36,7 +36,7 @@ Run the script:
 
 bash
 Copy code
-python dos.py
+python SYN-Flood-Script.py
 Enter the target hostname (e.g., rateglo.com) and port (e.g., 443 for HTTPS).
 
 ⚠️ Important Notes
@@ -49,9 +49,3 @@ Learn more about SYN flood attacks: SYN Flood Explanation
 Tools to detect network attacks: Wireshark
 🤝 Contributions
 Feel free to contribute by submitting a pull request or reporting issues.
-
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-go
-Copy code
